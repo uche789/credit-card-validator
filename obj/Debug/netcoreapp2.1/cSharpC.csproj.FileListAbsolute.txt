@@ -1,0 +1,11 @@
+c:\projects\cSharpC\bin\Debug\netcoreapp2.1\cSharpC.deps.json
+c:\projects\cSharpC\bin\Debug\netcoreapp2.1\cSharpC.runtimeconfig.json
+c:\projects\cSharpC\bin\Debug\netcoreapp2.1\cSharpC.runtimeconfig.dev.json
+c:\projects\cSharpC\bin\Debug\netcoreapp2.1\cSharpC.dll
+c:\projects\cSharpC\bin\Debug\netcoreapp2.1\cSharpC.pdb
+c:\projects\cSharpC\obj\Debug\netcoreapp2.1\cSharpC.csprojAssemblyReference.cache
+c:\projects\cSharpC\obj\Debug\netcoreapp2.1\cSharpC.csproj.CoreCompileInputs.cache
+c:\projects\cSharpC\obj\Debug\netcoreapp2.1\cSharpC.AssemblyInfoInputs.cache
+c:\projects\cSharpC\obj\Debug\netcoreapp2.1\cSharpC.AssemblyInfo.cs
+c:\projects\cSharpC\obj\Debug\netcoreapp2.1\cSharpC.dll
+c:\projects\cSharpC\obj\Debug\netcoreapp2.1\cSharpC.pdb
